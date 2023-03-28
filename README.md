@@ -5,7 +5,7 @@ https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-a
 
 Skills Practiced:
 - Data extraction (from Twitter)
-- Reading documentation to aid in troubleshooting
+- Reading documentation to aid in debugging
 - Python and SQL coding
 - Troubleshooting (macro) and debugging (micro)
 
