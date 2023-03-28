@@ -7,7 +7,6 @@ Skills Practiced:
 - Data extraction (from Twitter)
 - Reading documentation to aid in troubleshooting
 - Python and SQL coding
-- Apache Airflow UI
 - Troubleshooting (macro) and debugging (micro)
 
 What I Learned:
@@ -16,3 +15,4 @@ What I Learned:
 - How to load data into a database
 - How to connect Postgres to Airflow UI
 - What a configuration (.cfg) file is and how to use it
+- Familiarity with Airflow UI
