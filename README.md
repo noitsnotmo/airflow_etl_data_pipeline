@@ -16,3 +16,11 @@ What I Learned:
 - How to connect Postgres to Airflow UI
 - What a configuration (.cfg) file is and how to use it
 - Familiarity with Airflow UI
+
+Changes to airflow.cfg:
+- sql_alchemy_conn = postgresql+psycopg2://user:password@hostname/database_name
+# Defines postgresql connection instead of default SQL database.
+- executor = LocalExecutor
+# From 'SequentialExecutor'
+- load_examples = False
+# Disabled example DAGS.
