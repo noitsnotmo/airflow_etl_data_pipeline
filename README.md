@@ -13,6 +13,6 @@ Skills Practiced:
 What I Learned:
 - Use of Airflow operators
 - How to write a DAG script in Python
-- Load data into a database
+- How to load data into a database
 - How to connect Postgres to Airflow UI
 - What a configuration (.cfg) file is and how to use it
