@@ -1,4 +1,3 @@
-
 import pandas as pd
 from airflow.hooks.postgres_hook import PostgresHook
 
