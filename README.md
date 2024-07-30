@@ -1,7 +1,7 @@
 # airflow_etl_data_pipeline
 
-My repository for "How to Orchestrate an ETL Data Pipeline with Apache Airflow," FreeCodeCamp.org:
-https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/
+My repository for "How to Orchestrate an ETL Data Pipeline with Apache Airflow,"  
+Source: [FreeCodeCamp.org](https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/)
 
 # Skills Practiced:
 - Data extraction (from Twitter)
